@@ -3,7 +3,7 @@ Mini projects covering a range of javascripts essential topics
 
 1: Color Flipper
 ------------------------------------------------------------------------
-color flipper was used to improve my knowledge of 
+Color Flipper was used to improve my knowledge of 
 arrays
 document.getElementById()
 document.querySelector()
@@ -33,3 +33,25 @@ the function then applies the value to the body as text and applies the color to
 
 2: Counter
 ------------------------------------------------------------------------
+Counter was used to improve my knowledge of 
+document.querySelectorAll()
+forEach()
+addEventListener()
+currentTarget property
+classList
+textContent
+This was a very easy thing to make but its always good to revist things.
+Dont even need to talk about it.
+.contains to target the different buttons was cool to know. this was used in a if statement.
+
+3: Reviews
+------------------------------------------------------------------------
+Counter was used to improve my knowledge of 
+objects
+DOMContentLoaded
+addEventListener()
+array.length
+textContent
+
+a random number generator the length of the object array was made to select the id of the item and grab its contents through a function and updating the html through queryselectors.
+to make scrolling through the reviews continous. if you'd reached the begining of the array of objects and wanted to go out or bounds on either side, it would then take you to the opposite side. a random button was also created but this was dumb with only 4 items to choose from.
